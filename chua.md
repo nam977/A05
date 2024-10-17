@@ -1,0 +1,24 @@
+layout: page
+title: "David Brancaccio"
+permalink: "https://nam977.github.io/speakers/brancaccio.html"
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>San Joaquin Valley Town Hall</title>
+    <link rel="shortcut icon" href="/images/favicon.ico">
+</head>
+
+<body>
+<main>
+    <h1>Amy Chua</h1>
+    <h2>This page is under construction.</h2>
+
+    <p><a href="/A05/index.html">Return to Main Page</a></p>
+</main>
+
+</body>
+
+</html>
